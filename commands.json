@@ -1,0 +1,10 @@
+{
+  "move": "move",
+  "challenge": "challenge",
+  "current": "current",
+  "accept": "accept",
+  "deny": "deny",
+  "view": "view",
+  "help": "help",
+  "chess": "!chess"
+}
