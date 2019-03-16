@@ -1,0 +1,32 @@
+{
+  "pawn":{
+    "b": ":no_mouth:",
+    "w": ":baby:"
+  },
+  "rook":{
+    "b": ":european_castle:",
+    "w": ":japanese_castle:"
+  },
+  "knight":{
+    "b": ":horse:",
+    "w": ":horse_racing:"
+  },
+  "bishop":{
+    "b": ":construction_site:",
+    "w": ":statue_of_liberty:"
+  },
+  "queen":{
+    "b": ":bride_with_veil:",
+    "w": ":older_woman:"
+  },
+  "king":{
+    "b": ":man_in_tuxedo:",
+    "w": ":levitate:"
+  },
+  "square":{
+    "b":":black_large_square:",
+    "w":":white_large_square:"
+  }
+  
+
+}
